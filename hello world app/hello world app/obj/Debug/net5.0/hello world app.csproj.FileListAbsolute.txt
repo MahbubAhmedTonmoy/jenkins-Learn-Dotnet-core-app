@@ -1,0 +1,16 @@
+C:\Users\ahmed.mahbub\Desktop\jenkins-Learn-Dotnet-core-app\hello world app\hello world app\bin\Debug\net5.0\hello world app.exe
+C:\Users\ahmed.mahbub\Desktop\jenkins-Learn-Dotnet-core-app\hello world app\hello world app\bin\Debug\net5.0\hello world app.deps.json
+C:\Users\ahmed.mahbub\Desktop\jenkins-Learn-Dotnet-core-app\hello world app\hello world app\bin\Debug\net5.0\hello world app.runtimeconfig.json
+C:\Users\ahmed.mahbub\Desktop\jenkins-Learn-Dotnet-core-app\hello world app\hello world app\bin\Debug\net5.0\hello world app.runtimeconfig.dev.json
+C:\Users\ahmed.mahbub\Desktop\jenkins-Learn-Dotnet-core-app\hello world app\hello world app\bin\Debug\net5.0\hello world app.dll
+C:\Users\ahmed.mahbub\Desktop\jenkins-Learn-Dotnet-core-app\hello world app\hello world app\bin\Debug\net5.0\ref\hello world app.dll
+C:\Users\ahmed.mahbub\Desktop\jenkins-Learn-Dotnet-core-app\hello world app\hello world app\bin\Debug\net5.0\hello world app.pdb
+C:\Users\ahmed.mahbub\Desktop\jenkins-Learn-Dotnet-core-app\hello world app\hello world app\obj\Debug\net5.0\hello world app.csprojAssemblyReference.cache
+C:\Users\ahmed.mahbub\Desktop\jenkins-Learn-Dotnet-core-app\hello world app\hello world app\obj\Debug\net5.0\hello world app.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ahmed.mahbub\Desktop\jenkins-Learn-Dotnet-core-app\hello world app\hello world app\obj\Debug\net5.0\hello world app.AssemblyInfoInputs.cache
+C:\Users\ahmed.mahbub\Desktop\jenkins-Learn-Dotnet-core-app\hello world app\hello world app\obj\Debug\net5.0\hello world app.AssemblyInfo.cs
+C:\Users\ahmed.mahbub\Desktop\jenkins-Learn-Dotnet-core-app\hello world app\hello world app\obj\Debug\net5.0\hello world app.csproj.CoreCompileInputs.cache
+C:\Users\ahmed.mahbub\Desktop\jenkins-Learn-Dotnet-core-app\hello world app\hello world app\obj\Debug\net5.0\hello world app.dll
+C:\Users\ahmed.mahbub\Desktop\jenkins-Learn-Dotnet-core-app\hello world app\hello world app\obj\Debug\net5.0\ref\hello world app.dll
+C:\Users\ahmed.mahbub\Desktop\jenkins-Learn-Dotnet-core-app\hello world app\hello world app\obj\Debug\net5.0\hello world app.pdb
+C:\Users\ahmed.mahbub\Desktop\jenkins-Learn-Dotnet-core-app\hello world app\hello world app\obj\Debug\net5.0\hello world app.genruntimeconfig.cache
