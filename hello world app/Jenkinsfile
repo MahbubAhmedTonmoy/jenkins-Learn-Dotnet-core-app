@@ -1,28 +1,38 @@
 pipeline {
     agent any
+    triggers {
+        pollSCM '* * * * *'
+    }
     stages {
-        stage('Build Application') {
+        stage('Git checkOut') {
             steps {
-                sh 'mvn -f java-tomcat-sample/pom.xml clean package'
-            }
-            post {
-                success {
-                    echo "Now Archiving the Artifacts...."
-                    archiveArtifacts artifacts: '**/*.war'
-                }
+                git branch: '*/main', url: 'https://github.com/MahbubAhmedTonmoy/jenkins-Learn-Dotnet-core-app.git'
             }
         }
-        stage('Deploy in Staging Environment') {
+        stage('Restore packages') {
             steps {
-                build job: 'Deploy_Application_Staging_Env'
+                bat "dotnet restore hello world app\\hello world app\\hello world app.csproj"
             }
         }
-        stage('Deploy to Production') {
+
+        stage('Clean') {
             steps {
-                timeout(time:5, unit:'DAYS') {
-                    input message:'Approve PRODUCTION Deployment?'
-                }
-                build job: 'Deploy_Application_Prod_Env'
+                 bat "dotnet clean hello world app\\hello world app\\hello world app.csproj"
+            }
+        }
+        stage('Build') {
+            steps {
+                bat "dotnet build hello world app\\hello world app\\hello world app.csproj --configuration Release"
+            }
+        }
+        stage('Publish'){
+            steps{
+            bat "dotnet publish hello world app\\hello world app\\hello world app.csproj"
+            }
+        }
+        stage('Run'){
+            steps{
+            bat "dotnet run hello world app\\hello world app\\hello world app.csproj"
             }
         }
     }
