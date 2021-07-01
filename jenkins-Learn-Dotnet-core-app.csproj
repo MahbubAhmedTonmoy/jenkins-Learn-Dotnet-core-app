@@ -3,7 +3,7 @@
   <PropertyGroup>
     <OutputType>Exe</OutputType>
     <TargetFramework>net5.0</TargetFramework>
-    <RootNamespace>hello_world_app</RootNamespace>
+    <RootNamespace>jenkins_Learn_Dotnet_core_app</RootNamespace>
   </PropertyGroup>
 
 </Project>

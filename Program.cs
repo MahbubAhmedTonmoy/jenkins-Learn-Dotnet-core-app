@@ -1,6 +1,6 @@
 ﻿using System;
 
-namespace hello_world_app
+namespace jenkins_Learn_Dotnet_core_app
 {
     class Program
     {

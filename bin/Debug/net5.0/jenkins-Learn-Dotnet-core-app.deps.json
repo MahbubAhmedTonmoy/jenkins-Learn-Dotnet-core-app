@@ -6,15 +6,15 @@
   "compilationOptions": {},
   "targets": {
     ".NETCoreApp,Version=v5.0": {
-      "hello world app/1.0.0": {
+      "jenkins-Learn-Dotnet-core-app/1.0.0": {
         "runtime": {
-          "hello world app.dll": {}
+          "jenkins-Learn-Dotnet-core-app.dll": {}
         }
       }
     }
   },
   "libraries": {
-    "hello world app/1.0.0": {
+    "jenkins-Learn-Dotnet-core-app/1.0.0": {
       "type": "project",
       "serviceable": false,
       "sha512": ""

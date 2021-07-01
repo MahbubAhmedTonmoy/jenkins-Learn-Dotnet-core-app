@@ -1,0 +1,16 @@
+C:\Users\ahmed.mahbub\Desktop\jenkins-Learn-Dotnet-core-app\bin\Debug\net5.0\jenkins-Learn-Dotnet-core-app.exe
+C:\Users\ahmed.mahbub\Desktop\jenkins-Learn-Dotnet-core-app\bin\Debug\net5.0\jenkins-Learn-Dotnet-core-app.deps.json
+C:\Users\ahmed.mahbub\Desktop\jenkins-Learn-Dotnet-core-app\bin\Debug\net5.0\jenkins-Learn-Dotnet-core-app.runtimeconfig.json
+C:\Users\ahmed.mahbub\Desktop\jenkins-Learn-Dotnet-core-app\bin\Debug\net5.0\jenkins-Learn-Dotnet-core-app.runtimeconfig.dev.json
+C:\Users\ahmed.mahbub\Desktop\jenkins-Learn-Dotnet-core-app\bin\Debug\net5.0\jenkins-Learn-Dotnet-core-app.dll
+C:\Users\ahmed.mahbub\Desktop\jenkins-Learn-Dotnet-core-app\bin\Debug\net5.0\ref\jenkins-Learn-Dotnet-core-app.dll
+C:\Users\ahmed.mahbub\Desktop\jenkins-Learn-Dotnet-core-app\bin\Debug\net5.0\jenkins-Learn-Dotnet-core-app.pdb
+C:\Users\ahmed.mahbub\Desktop\jenkins-Learn-Dotnet-core-app\obj\Debug\net5.0\jenkins-Learn-Dotnet-core-app.csprojAssemblyReference.cache
+C:\Users\ahmed.mahbub\Desktop\jenkins-Learn-Dotnet-core-app\obj\Debug\net5.0\jenkins-Learn-Dotnet-core-app.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ahmed.mahbub\Desktop\jenkins-Learn-Dotnet-core-app\obj\Debug\net5.0\jenkins-Learn-Dotnet-core-app.AssemblyInfoInputs.cache
+C:\Users\ahmed.mahbub\Desktop\jenkins-Learn-Dotnet-core-app\obj\Debug\net5.0\jenkins-Learn-Dotnet-core-app.AssemblyInfo.cs
+C:\Users\ahmed.mahbub\Desktop\jenkins-Learn-Dotnet-core-app\obj\Debug\net5.0\jenkins-Learn-Dotnet-core-app.csproj.CoreCompileInputs.cache
+C:\Users\ahmed.mahbub\Desktop\jenkins-Learn-Dotnet-core-app\obj\Debug\net5.0\jenkins-Learn-Dotnet-core-app.dll
+C:\Users\ahmed.mahbub\Desktop\jenkins-Learn-Dotnet-core-app\obj\Debug\net5.0\ref\jenkins-Learn-Dotnet-core-app.dll
+C:\Users\ahmed.mahbub\Desktop\jenkins-Learn-Dotnet-core-app\obj\Debug\net5.0\jenkins-Learn-Dotnet-core-app.pdb
+C:\Users\ahmed.mahbub\Desktop\jenkins-Learn-Dotnet-core-app\obj\Debug\net5.0\jenkins-Learn-Dotnet-core-app.genruntimeconfig.cache
