@@ -9,11 +9,11 @@ pipeline {
                 git branch: 'main', url: 'https://github.com/MahbubAhmedTonmoy/jenkins-Learn-Dotnet-core-app.git'
             }
         }
-        //stage('Restore packages') {
-           // steps {
-              //  bat "dotnet restore"
-            //}
-       // }
+        stage('Restore packages') {
+            steps {
+                bat "dotnet restore"
+            }
+        }
 
         stage('Clean') {
             steps {
