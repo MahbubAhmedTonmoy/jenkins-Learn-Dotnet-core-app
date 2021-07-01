@@ -11,28 +11,23 @@ pipeline {
         }
         stage('Restore packages') {
             steps {
-                bat "dotnet restore hello world app\\hello world app\\hello world app.csproj"
+                bat "dotnet restore"
             }
         }
 
         stage('Clean') {
             steps {
-                 bat "dotnet clean hello world app\\hello world app\\hello world app.csproj"
+                 bat "dotnet clean"
             }
         }
         stage('Build') {
             steps {
-                bat "dotnet build hello world app\\hello world app\\hello world app.csproj --configuration Release"
-            }
-        }
-        stage('Publish'){
-            steps{
-            bat "dotnet publish hello world app\\hello world app\\hello world app.csproj"
+                bat "dotnet build"
             }
         }
         stage('Run'){
             steps{
-            bat "dotnet run hello world app\\hello world app\\hello world app.csproj"
+            bat "dotnet run"
             }
         }
     }
