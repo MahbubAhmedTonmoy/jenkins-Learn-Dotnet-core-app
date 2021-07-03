@@ -30,5 +30,15 @@ pipeline {
             bat "dotnet run"
             }
         }
+        stage('Create Docker Image'){
+            steps {
+                bat "docker build Dockerfile -t consoleapp:${env.BUILD_ID}"
+            }
+        }
+        stage('Run Docker Image'){
+            steps {
+                bat "docker run consoleapp:${env.BUILD_ID}"
+            }
+        }
     }
 }

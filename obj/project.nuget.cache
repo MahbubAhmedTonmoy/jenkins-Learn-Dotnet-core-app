@@ -1,8 +1,10 @@
 {
   "version": 2,
-  "dgSpecHash": "3jcXYrTpki2FzrWwrUw5jzPX099R3XxZlNrNoOCUhXXPzl263dMyFkaEEQE9KlUyqoRUvW4rhOuXPngg2Z+xuw==",
+  "dgSpecHash": "7Ab7pNUpCfqxgLLsYT/erZ2ktO+zxnI+XCmEZuZz0az4cSm3iaY7FKl4jMi2godBs7Q2LLplfLQVzfEKql+DVQ==",
   "success": true,
   "projectFilePath": "C:\\Users\\ahmed.mahbub\\Desktop\\jenkins-Learn-Dotnet-core-app\\jenkins-Learn-Dotnet-core-app.csproj",
-  "expectedPackageFiles": [],
+  "expectedPackageFiles": [
+    "C:\\Users\\ahmed.mahbub\\.nuget\\packages\\microsoft.visualstudio.azure.containers.tools.targets\\1.10.13\\microsoft.visualstudio.azure.containers.tools.targets.1.10.13.nupkg.sha512"
+  ],
   "logs": []
 }

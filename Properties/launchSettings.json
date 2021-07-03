@@ -1,0 +1,10 @@
+{
+  "profiles": {
+    "jenkins-Learn-Dotnet-core-app": {
+      "commandName": "Project"
+    },
+    "Docker": {
+      "commandName": "Docker"
+    }
+  }
+}

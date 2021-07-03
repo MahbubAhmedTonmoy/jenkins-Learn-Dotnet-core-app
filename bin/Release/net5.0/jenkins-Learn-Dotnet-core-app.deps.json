@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "jenkins-Learn-Dotnet-core-app/1.0.0": {
+        "runtime": {
+          "jenkins-Learn-Dotnet-core-app.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "jenkins-Learn-Dotnet-core-app/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
