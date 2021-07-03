@@ -32,7 +32,7 @@ pipeline {
         }
         stage('Create Docker Image'){
             steps {
-                bat "docker build Dockerfile -t consoleapp:${env.BUILD_ID}"
+                bat "docker build -t consoleapp:${env.BUILD_ID} -f Dockerfile ."
             }
         }
         stage('Run Docker Image'){
